@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "slide": {
+    "title1": "Reliable windows",
+    "desc1": "Comfort and silence for your home",
+    "title2": "Modern design",
+    "desc2": "Style that lasts for years",
+    "title3": "Quality and warranty",
+    "desc3": "Trusted by thousands of clients"
+  },
+  "buttons": {
+    "catalog": "Catalog",
+    "all_products": "View all products"
+  },
+  "stats": {
+    "experience": "years of experience",
+    "clients": "clients",
+    "quality": "quality and experience"
+  },
+  "brands": "Brands",
+  "footer": {
+    "desc": "Quality, reliability and modern design since 2010.",
+    "company": "COMPANY",
+    "services": "SERVICES",
+    "contacts": "CONTACTS",
+    "policy": "Policy",
+    "terms": "Terms",
+    "cookie": "Cookie"
+  }
+}
