@@ -3,7 +3,7 @@
     "home": "Home",
     "products": "Products",
     "about": "About",
-    "contact": "Contact",
+    "contact": "Contacts",
     "login": "Login"
   },
   "slide": {
@@ -12,11 +12,13 @@
     "title2": "Modern design",
     "desc2": "Style that lasts for years",
     "title3": "Quality and warranty",
-    "desc3": "Trusted by thousands of clients"
+    "desc3": "Trusted by thousands of customers"
   },
   "buttons": {
     "catalog": "Catalog",
-    "all_products": "View all products"
+    "all_products": "View all products",
+    "cart": "Add to cart",
+    "go_to_cart": "Go to cart"
   },
   "stats": {
     "experience": "years of experience",
@@ -24,6 +26,24 @@
     "quality": "quality and experience"
   },
   "brands": "Brands",
+  "wishlist": {
+    "empty_title": "Wishlist is empty",
+    "empty_desc": "Add products to wishlist ❤️"
+  },
+  "cart": {
+    "empty": "Cart is empty",
+    "product": "Product",
+    "price": "Price",
+    "qty": "Quantity",
+    "subtotal": "Subtotal",
+    "back": "Return to shop",
+    "clear": "Remove all",
+    "total_title": "Cart Total",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "checkout": "Proceed to checkout"
+  },
   "footer": {
     "desc": "Quality, reliability and modern design since 2010.",
     "company": "COMPANY",
